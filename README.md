@@ -1,4 +1,4 @@
-scala-test-app
+Java frameworks
 ==============
 
 - Play
